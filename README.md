@@ -69,12 +69,17 @@ TO
 
 ￼
 - [ ] Fill out lines below commments in routes/flights (Do each one individually fully onward, don’t add them all at same time)
+
 ￼
 - [ ] IN “controllers/flights” file , Add module exports
+
 ￼
 - [ ] IN “controllers/flights” file , Fill it out with “new,create,index,show” functions
+
 ￼
 - [ ] IN “controllers/flights” file , Add blank functions of each one in module.exports
+
 ￼
+
 Comment functions/exports not in use and test working ones with console.log(“Hello”) or console.log(req.params);
 From this point on, modify each function with what you need and proceed to focusing on custom feature.
