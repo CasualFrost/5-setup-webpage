@@ -46,7 +46,9 @@ views/error.ejs 
 views/index.ejs
 - [ ] Change Routes in Server.js folder
 ￼
+
 TO
+
 ￼
 - [ ] In routes/flights
 ￼
