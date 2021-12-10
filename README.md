@@ -51,7 +51,7 @@ views/error.ejs 
 views/index.ejs
 - [ ] Change Routes in Server.js folder
 
-￼
+![routes](https://i.imgur.com/IvNxOxC.png)
 
 TO
 
