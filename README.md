@@ -30,7 +30,9 @@ Copy and paste this into Notes for checkmark
 - [ ] Rename “app.js” to “server.js”
 - [ ] In bin/www update line 7 to require “server” instead of “app”
 ￼
+
 TO
+
 ￼
 - [ ] Test server if working 
 > npm start 
@@ -52,11 +54,15 @@ TO
 ￼
 - [ ] In routes/flights
 ￼
+
 TO
+
 ￼
 - [ ] In routes/flights
 ￼
+
 TO
+
 ￼
 - [ ] Fill out lines below commments in routes/flights (Do each one individually fully onward, don’t add them all at same time)
 ￼
