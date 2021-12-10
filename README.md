@@ -1,6 +1,8 @@
 # 5-setup-webpage
-Copy and paste this into Notes for checkmark
+Copy and paste this into Notes and change unordered list to checklist
+
 5 Step Setup Guide
+
  https://gist.github.com/jim-clark/9f9bd19d60d9ce2ec57be8242b6aee96
 
 - [ ] Move into /code folder or where your project folder needs to be in
