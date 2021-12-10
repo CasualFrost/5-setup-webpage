@@ -29,6 +29,7 @@ Copy and paste this into Notes for checkmark
 > touch .env OR Add through vscode “.env”
 - [ ] Rename “app.js” to “server.js”
 - [ ] In bin/www update line 7 to require “server” instead of “app”
+
 ￼
 
 TO
@@ -47,18 +48,21 @@ controllers/flights.js
 views/error.ejs 
 views/index.ejs
 - [ ] Change Routes in Server.js folder
+
 ￼
 
 TO
 
 ￼
 - [ ] In routes/flights
+
 ￼
 
 TO
 
 ￼
 - [ ] In routes/flights
+
 ￼
 
 TO
