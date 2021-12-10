@@ -56,43 +56,43 @@ views/error.ejs 
 views/index.ejs
 - [ ] Change Routes in Server.js folder
 
-![image](https://i.imgur.com/IvNxOxC.png)
+![image](https://i.imgur.com/QYX8FVJ.png)
 
 TO
 
-![image]()
+![image](https://i.imgur.com/CcJcroV.png)
 
 - [ ] In routes/flights
 
-![image]()
+![image](https://i.imgur.com/LlZKKIs.png)
 
 TO
 
-![image]()
+![image](https://i.imgur.com/zWXGxXf.png)
 
 - [ ] In routes/flights
 
-![image]()
+![image](https://i.imgur.com/bN0ar2H.png)
 
 TO
 
-![image]()
+![image](https://i.imgur.com/DXgULKG.png)
 
 - [ ] Fill out lines below commments in routes/flights (Do each one individually fully onward, don’t add them all at same time)
 
-![image]()
+![image](https://i.imgur.com/lAEBe99.png)
 
 - [ ] IN “controllers/flights” file , Add module exports
 
-![image]()
+![image](https://i.imgur.com/1Eep0Mn.png)
 
 - [ ] IN “controllers/flights” file , Fill it out with “new,create,index,show” functions
 
-![image]()
+![image](https://i.imgur.com/QjP2TdJ.png)
 
 - [ ] IN “controllers/flights” file , Add blank functions of each one in module.exports
 
-![image]()
+![image](https://i.imgur.com/uZV7Ulk.png)
 
 Comment functions/exports not in use and test working ones with console.log(“Hello”) or console.log(req.params);
 From this point on, modify each function with what you need and proceed to focusing on custom feature.
