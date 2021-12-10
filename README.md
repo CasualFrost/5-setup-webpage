@@ -32,7 +32,7 @@ Add through vscode “.env”
 - [ ] Rename “app.js” to “server.js”
 - [ ] In bin/www update line 7 to require “server” instead of “app”
 
-[Imgur](https://imgur.com/IvNxOxC)
+(https://imgur.com/IvNxOxC)
 
 TO
 
