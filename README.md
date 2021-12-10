@@ -3,9 +3,10 @@ Copy and paste this into Notes for checkmark
 5 Step Setup Guide
  https://gist.github.com/jim-clark/9f9bd19d60d9ce2ec57be8242b6aee96
 
-- [ ] Install Express  
+- [ ] Move into /code folder or where your project folder needs to be in
+- [ ] Install Express in the folder you need to have your project in 
 > express -e (name of project ex: mongoose-flights)
-- [ ] Move into Project 
+- [ ] Move into Project Folder
 > cd (name of project ex: mongoose-flights)
 - [ ] Install Node Modules 
 > npm i
