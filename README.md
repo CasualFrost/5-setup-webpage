@@ -3,28 +3,47 @@ Copy and paste this into Notes for checkmark
 5 Step Setup Guide
  https://gist.github.com/jim-clark/9f9bd19d60d9ce2ec57be8242b6aee96
 
-- [ ] Install Express  > express -e (name of project ex: mongoose-flights)
-- [ ] Move into Project > cd (name of project ex: mongoose-flights)
-- [ ] Install Node Modules > npm i
-- [ ] Install .env > npm i dotenv
-- [ ] Install mongoose > npm i mongoose
-- [ ] Open in VSCode > code .
-- [ ] Start Git Repo Process > git init
-- [ ] Add changes for Repo > git add -A
-- [ ] Commit changes to Repo > git commit -m “repo setup”
-- [ ] Make repo on github and add local to remote > git remote add origin (link of github remote repo)
-- [ ] Push to remote repo > git push -u origin main
-- [ ] Add .env file > touch .env OR Add through vscode “.env”
+- [ ] Install Express  
+> express -e (name of project ex: mongoose-flights)
+- [ ] Move into Project 
+> cd (name of project ex: mongoose-flights)
+- [ ] Install Node Modules 
+> npm i
+- [ ] Install .env 
+> npm i dotenv
+- [ ] Install mongoose 
+> npm i mongoose
+- [ ] Open in VSCode 
+> code .
+- [ ] Start Git Repo Process 
+> git init
+- [ ] Add changes for Repo 
+> git add -A
+- [ ] Commit changes to Repo 
+> git commit -m “repo setup”
+- [ ] Make repo on github and add local to remote 
+> git remote add origin (link of github remote repo)
+- [ ] Push to remote repo 
+> git push -u origin main
+- [ ] Add .env file 
+> touch .env OR Add through vscode “.env”
 - [ ] Rename “app.js” to “server.js”
 - [ ] In bin/www update line 7 to require “server” instead of “app”
 ￼
 TO
 ￼
-- [ ] Test server if working > npm start OR > nodemon
+- [ ] Test server if working 
+> npm start 
+OR 
+> nodemon
 - [ ] Add FOLDERS “models” and “controllers”
-- [ ] Add FILE to models and controllers folders  models/flight.js controllers/flights.js
+- [ ] Add FILE to models and controllers folders  
+models/flight.js 
+controllers/flights.js
 - [ ] Add FOLDER “views”
-- [ ] Add FILES to views folder views/error.ejs views/index.ejs
+- [ ] Add FILES to views folder 
+views/error.ejs 
+views/index.ejs
 - [ ] Change Routes in Server.js folder
 ￼
 TO
