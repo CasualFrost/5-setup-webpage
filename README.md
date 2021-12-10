@@ -26,10 +26,12 @@ Copy and paste this into Notes for checkmark
 > git remote add origin (link of github remote repo)
 - [ ] Push to remote repo 
 > git push -u origin main
-- [ ] Add .env file 
-> touch .env 
-OR 
+- [ ] Add .env file
+
+> touch .env
+OR
 Add through vscode “.env”
+
 - [ ] Rename “app.js” to “server.js”
 - [ ] In bin/www update line 7 to require “server” instead of “app”
 
