@@ -26,11 +26,13 @@ Copy and paste this into Notes for checkmark
 - [ ] Push to remote repo 
 > git push -u origin main
 - [ ] Add .env file 
-> touch .env OR Add through vscode “.env”
+> touch .env 
+OR 
+Add through vscode “.env”
 - [ ] Rename “app.js” to “server.js”
 - [ ] In bin/www update line 7 to require “server” instead of “app”
 
-￼
+[Imgur](https://imgur.com/IvNxOxC)
 
 TO
 
