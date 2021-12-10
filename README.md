@@ -43,8 +43,10 @@ TO
 ![server](https://i.imgur.com/E2990JD.png)
 
 - [ ] Test server if working 
-> npm start 
-OR 
+> npm start
+
+OR
+
 > nodemon
 - [ ] Add FOLDERS “models” and “controllers”
 - [ ] Add FILE to models and controllers folders  
