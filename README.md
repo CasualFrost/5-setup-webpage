@@ -31,12 +31,9 @@ OR 
 Add through vscode “.env”
 - [ ] Rename “app.js” to “server.js”
 - [ ] In bin/www update line 7 to require “server” instead of “app”
-
-(https://imgur.com/IvNxOxC)
-
+![routes](https://i.imgur.com/IvNxOxC.png)
 TO
-
-￼
+![server](https://i.imgur.com/E2990JD.png)
 - [ ] Test server if working 
 > npm start 
 OR 
