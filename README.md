@@ -4,7 +4,7 @@ Copy and paste this into Notes and change unordered list to checklist
 5 Step Setup Guide
 
  https://gist.github.com/jim-clark/9f9bd19d60d9ce2ec57be8242b6aee96
-
+(for terminal commands, fill in the inside of ( ). Don't include the ( ).
 - [ ] Move into /code folder or where your project folder needs to be in
 - [ ] Install Express in the folder you need to have your project in 
 > express -e (name of project ex: mongoose-flights)
@@ -51,13 +51,19 @@ OR
 
 > nodemon
 - [ ] Add FOLDERS “models” and “controllers”
-- [ ] Add FILE to models and controllers folders  
-models/flight.js 
+- [ ] Add FILE to models and controllers folders
+
+models/flight.js
+
 controllers/flights.js
+
 - [ ] Add FOLDER “views”
-- [ ] Add FILES to views folder 
-views/error.ejs 
+- [ ] Add FILES to views folder
+
+views/error.ejs
+
 views/index.ejs
+
 - [ ] Change Routes in Server.js folder
 
 ![image](https://i.imgur.com/QYX8FVJ.png)
