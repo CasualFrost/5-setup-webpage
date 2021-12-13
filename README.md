@@ -35,6 +35,7 @@ OR
 
 Add through vscode “.env”
 
+- [ ] Add your database connection link to your .env file
 - [ ] Rename “app.js” to “server.js”
 - [ ] In bin/www update line 7 to require “server” instead of “app”
 
